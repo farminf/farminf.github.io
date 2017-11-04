@@ -1,6 +1,6 @@
 # Site settings
 name: Farmin Farzin
-description: "This is the corner of ..."
+description: "All you touch and all you see, is all your life will ever be!"
 url: ""
 
 
@@ -18,15 +18,17 @@ instagram_username:  farminf
 #flickr_username: your_flickr_username_goes_here
 #steam_username: your_steam_username_goes_here
 soundcloud_username:  farmin-farzin
-stack_of_username: farmin
+#stack_of_username: farmin
 #reddit_username: your_reddit_username_goes_here
-medium_username:  farminf
+#medium_username:  farminf
 #tumblr_username: your_tumblr_username_goes_here
 #weibo_username: your_weibo_username_goes_here
 #lastfm_username: your_lastfm_username_goes_here
 blog_url: "http://iotdemos.wordpress.com"
 email: farmin.f@gmail.com
 #public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
+wix_username: farminf
+wix_site: moments
 
 
 avatar: yes
