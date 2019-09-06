@@ -1,6 +1,7 @@
 # Site settings
 name: Farmin Farzin
-description: "All you touch and all you see, is all your life will ever be!"
+#description: "All you touch and all you see, is all your life will ever be!"
+description: "A full-stack developer, IoT enthusiast, FLOSS fan and Serverless buff!"
 url: ""
 
 
